@@ -116,6 +116,10 @@ a{
 	margin-top: 10px;
 	font-size: 14px;
 }
+.mail a:hover{
+	color: #ff7a00;
+	text-decoration: none;
+}
 .header-icon{
 	padding-top: 7px;
 	margin-right: 5px;
@@ -223,6 +227,14 @@ address{
 	font-size: 13px;
 	text-transform: uppercase;
 	font-weight: 600;
+}
+.mail-footer{
+	color: #e31e24;
+}
+.mail-footer:hover{
+	text-decoration: none;
+	cursor: pointer;
+	color: #e31e24;
 }
 .footer-copyright{
 	padding: 30px 0;
